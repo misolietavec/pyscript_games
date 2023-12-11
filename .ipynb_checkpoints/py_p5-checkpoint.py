@@ -1,0 +1,31 @@
+import js
+p5 = js.window
+
+CENTER = p5.CENTER
+LEFT = p5.LEFT
+P2D = p5.P2D
+RIGHT = p5.RIGHT
+background = p5.background
+createCanvas = p5.createCanvas
+createVector = p5.createVector
+ellipse = p5.ellipse
+fill = p5.fill
+frameRate = p5.frameRate
+image = p5.image
+key = p5.key
+keyCode = p5.keyCode
+keyIsPressed = p5.keyIsPressed
+# keyTyped = p5.keyTyped
+loadImage = p5.loadImage
+mouseButton = p5.mouseButton
+mouseX = p5.mouseX
+mouseY = p5.mouseY
+noCursor = p5.noCursor
+noStroke = p5.noStroke
+random = p5.random
+rect = p5.rect
+rectMode = p5.rectMode
+requestAnimationFrame = p5.requestAnimationFrame
+text = p5.text
+textAlign = p5.textAlign
+textSize = p5.textSize
